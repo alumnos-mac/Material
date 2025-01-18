@@ -65,15 +65,24 @@ Usa nombres claros y consistentes para facilitar la búsqueda y organización:
 
 **Mejorar nombres existentes**: Si encuentras un archivo nombrado como "número-Apunte" que no sea tuyo, pero identificas una forma de mejorar su nombre de tema, puedes abrir un Pull Request (PR) para sugerir la mejora.
 
-### 4. Sube tu aporte
+### 4. Solicita ser colaborador
 
-1. Crea una rama específica para tu contribución.
-2. Sube tu contenido.
-3. Crea un _pull request_ detallando:
+Si quieres contribuir de manera más activa al repositorio (por ejemplo, creando ramas directamente), puedes solicitar ser colaborador. Para ello:
+
+1. Envía un correo a **[javier2001reyes2001@gmail.com](mailto:mi)** con los siguientes datos:
+    - Tu usuario de GitHub.
+    - Un breve texto mencionando tu intencion de contribuir.
+
+2. Una vez recibido tu correo, revisaremos tu solicitud y te daremos acceso.
+
+### 5. Sube tu aporte (en caso de no ser colaborador)
+
+1. Haz un **fork** del repositorio.
+2. Crea una nueva rama en tu fork para tus cambios.
+3. Cuando termines, envía un **pull request** detallando:
     - El material que estás subiendo.
     - Su relevancia y uso.
     - Explicaciones adicionales si introduces nuevos formatos o carpetas.
-
 ---
 
 ## 📜 Reglas y Buenas Prácticas
