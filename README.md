@@ -61,7 +61,7 @@ Usa nombres claros y consistentes para facilitar la búsqueda y organización:
 -   Si el apunte trata sobre operaciones como suma, resta o multiplicación, el tema sería Operaciones Básicas.
 -   Si aborda un concepto específico, como Matrices o Determinantes, usa ese término como tema.
 
-**En caso de duda**: Si no puedes identificar el tema con claridad, asigna únicamente el siguiente número consecutivo seguido de la palabra Apunte (por ejemplo, "2-Apunte.pdf").
+**En caso de duda**: Si no puedes identificar el tema con claridad, asigna únicamente el siguiente número consecutivo seguido de la palabra Apunte (por ejemplo, "2-Apunte.pdf") si es posible tambien puedes agregar la fecha del apunte para que se pueda ubicar masomenos en que fechas se ralizo el apunte.
 
 **Mejorar nombres existentes**: Si encuentras un archivo nombrado como "número-Apunte" que no sea tuyo, pero identificas una forma de mejorar su nombre de tema, puedes abrir un Pull Request (PR) para sugerir la mejora.
 
